@@ -1,7 +1,7 @@
-TypeScript Node "request" Demo
-===========================
+TypeScript Node "request" Send Cookie Demo
+==========================================
 
-使用"request"这个库来发送http请求。
+使用"request"如何发送cookie
 
 ```
 npm install
